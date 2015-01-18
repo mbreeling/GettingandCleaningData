@@ -3,6 +3,7 @@ DATA DICTIONARY
 activity- Activity of the subject. Factor with 6 levels: 'WALKING','WALKING_UPSTAIRS','WALKING_DOWNSTAIRS','SITTING','STANDING','LAYING'
 
 subject- Subjects were numbered 1-30.
+
 tBodyAccmeanX- mean of the tBodyAcc-mean()-X variable in the units of that variable (which were not given, and normalized anyways)
 
 tBodyAccmeanY- defined similarly
