@@ -4,13 +4,13 @@ activity- Activity of the subject. Factor with 6 levels: 'WALKING','WALKING_UPST
 
 subject- Subjects were numbered 1-30.
 
-tBodyAccmeanX- mean of the tBodyAcc-mean()-X variable in the units of that variable (which were not given, and normalized anyways)
+tBodyAccmeanX- mean of the tBodyAcc-mean()-X variable in the units of that variable (which were not given; the measurement taken was normalized to be between -1 and 1 but the normalization wasn't given)
 
 tBodyAccmeanY- defined similarly
 
 tBodyAccmeanZ- etc.
 
-tGravityAccmeanX- mean of the tBodyAcc-mean()-X variable etc.
+tGravityAccmeanX- mean of the tGravityAcc-mean()-X variable etc.
 
 tGravityAccmeanY- defined similarly etc.
 
