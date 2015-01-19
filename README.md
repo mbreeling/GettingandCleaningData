@@ -30,7 +30,7 @@ The script itself works in several steps:
 
 4.) Rename the 'activity' factors with descriptive names from 'activity_labels.txt' and clean up descriptive variable names.
 
-5.) Create and output the second data set 'Tidy_UCI_HAR.txt'.
+5.) Create and output the second data set 'Tidy_UCI_HAR.txt' by taking means of each measurement variable grouped by the 'activity' and 'subject' factors.
 
 
 
